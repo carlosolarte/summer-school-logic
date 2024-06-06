@@ -1,0 +1,11 @@
+title: Summer School
+email: carlos.olarte@gmail.com
+description: >- # this means to ignore newlines until "baseurl:"
+  Summer School on Substructural and Modal Logics
+
+baseurl: "/" # the subpath of your site, e.g. /blog
+
+# With GitHub Pages Gem
+#remote_theme: chrisrhymes/bulma-clean-theme
+theme: jekyll-theme-slate
+
